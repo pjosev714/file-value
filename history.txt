@@ -1,0 +1,34 @@
+   1  git stsus
+    2  git status
+    3  git add README.md
+    4  git status
+    5  git commit
+    6  git config --global
+    7  git config --help
+    8  git config --list --global
+    9  git config --global user.email pjosev14@gmail.com
+   10  git config --global user.name Pete
+   11  git config --list --global
+   12  git commit
+   13  git status
+   14  git push
+   15  git status
+   16  git commit -m "Add steps"
+   17  git add README.md
+   18  git commit -m "Add steps"
+   19  git status
+   20  git push
+   21  git status
+   22  git status
+   23  git add green,papaya
+   24  git add key-value.csv
+   25  git status
+   26  git add key-value.csv
+   27  git status
+   28  history
+   29  git commit -m Add csvfile
+   30  git commit -m "Add csvfile"
+   31  git status
+   32  git push
+   33  touch history.txt
+   34  history
