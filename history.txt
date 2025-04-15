@@ -32,3 +32,30 @@
    32  git push
    33  touch history.txt
    34  history
+   $ history
+    1  C:/Users/User/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/User/wrkshp/file-value/parse.py
+    2  C:/Users/User/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/User/wrkshp/file-value/test_parse.py
+    3  pip install pytest
+    4  path
+    5  $path
+    6  python -m
+    7  python -m pytest
+    8  python -m
+    9  python -m pytest
+   10  python -m pytest
+   11  python -m
+   12  test_parse.py
+   13  python -m pytest
+   14  test_parse.py
+   15  python parse.py
+   16  python parse.py
+   17  git add
+   18  git add parse.py
+   19  git diff parse.py
+   20  git commit -m "change function"
+   21  git status
+   22  git add test_parse.py
+   23  git commit -m "test function'
+   24  git commit -m "test function"
+   25  git push
+   26  history
